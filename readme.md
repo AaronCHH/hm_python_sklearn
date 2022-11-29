@@ -3,7 +3,8 @@
 [![hackmd-github-sync-badge](https://hackmd.io/p6CI0yRgQ6uaUZdj3JCRiQ/badge)](https://hackmd.io/p6CI0yRgQ6uaUZdj3JCRiQ)
 
 ## Book Chapter
-* Python資料科學自學聖經_碁峰 Ch8, Ch9
+* [Python資料科學自學聖經_碁峰(2022)](http://books.gotop.com.tw/v_ACL065700) | Ch8, Ch9
+* [跨領域學Python_旗標(2020)](https://www.flag.com.tw/books/product/F0753) | Ch8, Ch10, Ch11, Ch12 
 
 ## Books
 
