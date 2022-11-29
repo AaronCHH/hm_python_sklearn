@@ -1,4 +1,7 @@
 # Python_sklearn
+
+[![hackmd-github-sync-badge](https://hackmd.io/p6CI0yRgQ6uaUZdj3JCRiQ/badge)](https://hackmd.io/p6CI0yRgQ6uaUZdj3JCRiQ)
+
 ## Book Chapter
 * Python資料科學自學聖經_碁峰 Ch8, Ch9
 
